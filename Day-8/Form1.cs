@@ -1,9 +1,9 @@
-﻿namespace Day_8
+namespace Day_8
 {
     public partial class Form1 : Form
     {
-        private string operation = ""; // İşlem türü (+, -, *, /)
-        private double firstNumber = 0; // İlk sayı
+        private string operation = ""; 
+        private double firstNumber = 0; 
 
         public Form1()
         {
